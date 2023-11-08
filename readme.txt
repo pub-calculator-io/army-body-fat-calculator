@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Army Body Fat Calculator](https://www.calculator.io/army-body-fat-calculator/ "Army Body Fat Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_army_body_fat_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Army Body Fat Calculator to the sidebar through the `Appearance -> Widgets -> Army Body Fat Calculator` menu in WordPress.
+* Add the shortcode `[ci_army_body_fat_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_army_body_fat_calculator(); ?>` to your template where you would like the Army Body Fat Calculator to appear.
 
 == Screenshots ==
