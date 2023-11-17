@@ -1,6 +1,6 @@
 === Army Body Fat Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: army body fat calculator, military fat percentage tool, calculate service body fat, body fat standards military, army fat calculation, measure body fat army, military fitness calculator, army body composition program, body fat compliance military, soldier body fat calculator
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
