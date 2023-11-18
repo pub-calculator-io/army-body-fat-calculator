@@ -1,4 +1,4 @@
-# Army Body Fat Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Army Body Fat Calculator Widget for WordPress
 
 The Army Body Fat Calculator provides users with an accurate estimate of their body fat percentage using the standards of the U.S. Army.
 
