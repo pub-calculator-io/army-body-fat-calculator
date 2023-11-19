@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Army Body Fat Calculator by www.calculator.io
+Plugin Name: CI Army body fat calculator
 Plugin URI: https://www.calculator.io/army-body-fat-calculator/
 Description: The Army Body Fat Calculator provides users with an accurate estimate of their body fat percentage using the standards of the U.S. Army.
 Version: 1.0.0
