@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Army Body Fat C
 == Screenshots ==
 
 1. The Army Body Fat Calculator Input Form.
-2. The Army Body Fat Calculator Calculation Results.
 
 == Installation ==
 

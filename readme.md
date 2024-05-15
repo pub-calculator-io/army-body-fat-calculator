@@ -3,7 +3,6 @@
 The Army Body Fat Calculator provides users with an accurate estimate of their body fat percentage using the standards of the U.S. Army.
 
 ![Army Body Fat Calculator Input Form](/assets/images/screenshot-1.png "Army Body Fat Calculator Input Form")
-![Army Body Fat Calculator Calculation Results](/assets/images/screenshot-2.png "Army Body Fat Calculator Calculation Results")
 
 ## Installation
 
